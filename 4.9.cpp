@@ -2,7 +2,7 @@
 using namespace std;
 int main ()
 {
-	int mayor;
+	int mayor;asdasd;
 	int a,b,c;
 	cout<<"Digite 3 numeros"<<endl;
 	cin>>a>>b>>c;
