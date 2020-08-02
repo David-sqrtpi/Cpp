@@ -9,6 +9,8 @@
 
 using namespace std;
 
+int asd;
+
 void MenuPrincipal(int, int, int), MenuSoporte(int, int, int), NuevoPiso(int, int, int), MenuNuevoPiso(int, int, int);
 void MenuInfo(int, int, int), TamanioOficina(int, int, int), BuscarPiso(int, int, int), BuscarNombre(int, int, int), DatosPersonales(int, int, int);
 void CambiarParametros(int, int, int), MenuDesocupar(int, int, int), Desocupar(int, int, int), Buscador(int, int, int);
